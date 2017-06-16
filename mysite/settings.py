@@ -25,7 +25,7 @@ SECRET_KEY = '6d0=mss9&!c4w$-bk)xf-!#%nec-ezffnvo^%l9h^lw1bz8d6&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['thepandalion.pythonanywhere.com']
 
 
 # Application definition
